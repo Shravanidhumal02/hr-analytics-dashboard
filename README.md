@@ -74,6 +74,6 @@ The dataset contains employee information, including:
 
 ## Files Included
 
-- HR Analytics.pbix
-- hr_analytics.csv
+- HR_Analytics_Dashboard.pbix
+- HR_Analytics.csv
 - Dashboard Screenshot
