@@ -1,4 +1,4 @@
-# hr-analytics-dashboard
+# Hr-analytics-dashboard
 Interactive HR Analytics Dashboard built using Power BI to analyse employee attrition, workforce demographics, and key HR metrics.
 
 ## Project Overview
@@ -73,6 +73,6 @@ The dataset contains employee information, including:
 
 ## Files Included
 
-- HR_Analytics_Dashboard.pbix
+- HR Analytics.pbix
 - hr_analytics.csv
 - Dashboard Screenshot
