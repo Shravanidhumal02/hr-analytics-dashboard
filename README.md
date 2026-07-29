@@ -68,9 +68,8 @@ The dataset contains employee information, including:
 - Use workforce analytics to support hiring and retention decisions.
 
 ## Dashboard Preview
-## Dashboard Preview
 
-![hr analytics Dashboard](Hr_dashboard.png)
+![hr analytics Dashboard](Hr_Dashboard.png)
 
 
 ## Files Included
